@@ -1,2 +1,0 @@
-# minos-ai
-minos ai
